@@ -1,4 +1,4 @@
 # ddggmm
-(http://dgarrimog/ddggmm/to/nocheestrellada.png)
-(http://dgarrimog/ddggmm/to/puntocruz.png)
-(http://dgarrimog/ddggmm/to/caligrafia.png)
+(http://dgarrimog/ddggmm/nocheestrellada.png)
+(http://dgarrimog/ddggmm/puntocruz.jpg)
+(http://dgarrimog/ddggmm/caligrafia.png)
