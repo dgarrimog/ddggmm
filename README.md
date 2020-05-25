@@ -1,6 +1,6 @@
 # ddggmm
-(https://raw.githubusercontent.com/dgarrimog/ddggmm/master/to/nocheestrellada.png)
+(https://raw.githubusercontent.com/dgarrimog/ddggmm/master/nocheestrellada.png)
 
-(https://raw.githubusercontent.com/dgarrimog/ddggmm/master/to/puntocruz.jpg)
+(https://raw.githubusercontent.com/dgarrimog/ddggmm/master/puntocruz.jpg)
 
-(https://raw.githubusercontent.com/dgarrimog/ddggmm/master/to/caligrafia.png)
+(https://raw.githubusercontent.com/dgarrimog/ddggmm/master/caligrafia.png)
